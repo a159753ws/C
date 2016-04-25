@@ -1,2 +1,2 @@
-# cse2451
-C practice program in CSE2451
+# CSE2451
+C practice programs in CSE2451
